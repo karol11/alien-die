@@ -1,8 +1,8 @@
 /*
- * blink.c
+ * AlienDie.c
  *
  * Created: 12/21/2021 10:36:39 PM
- * Author : Andrey
+ * Author : AndreyKa
  */ 
 
 #define F_CPU 1000000UL
