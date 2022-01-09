@@ -1,4 +1,4 @@
-# alien-die
+# Alien Die
 A keychain fidget-clicker toy with eight buttons, 18 LEDs battery and a microcontroller with 2Kb flash.
 It has:
 - Tic-tac-toe pvp game.
