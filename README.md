@@ -1,12 +1,32 @@
 # Alien Die
-A keychain fidget-clicker toy with eight buttons, 18 LEDs battery and a microcontroller with 2Kb flash.
-It has:
-- Tic-tac-toe pvp game.
-- Puzzle.
-- Timer
-- Playing die 1-6
-- 9 random heads-or-tails coins
-- Screen saver
-- Text message player
-- Animation player
-- Message/Animation editor
+![device](/picts/front.jpg)
+
+You can think of Alien Die as:
+- a keychain that glows with old-fashioned animated LEDs,
+- or a coin-cell powered pocket toy,
+- or a fidget spinner clicker, because it has nicely clicking tactile buttons,
+- or a nicely looking aide for your board games,
+- or a secret messenger.
+
+It's firmware contains:
+- a Tic-tac-toe pvp game.
+- a puzzle,
+- a small screen saver,
+- an animation player
+- an animation editor,
+- a timer,
+- a playing die
+- a heads-or-tails random generator X9
+Last three apps help with board games.
+
+![front](/picts/pcb-front.jpg)
+
+It consists of:
+- a small (1x1x1/2'') body,
+- a small PCB board,
+- a tiny microcontroller,
+- 9 buttons,
+- a bunch of LEDs,
+- and a CR2335 battery holder.
+
+![back](/picts/pcb-back.jpg)
