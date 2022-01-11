@@ -4,7 +4,7 @@
 You can think of Alien Die as:
 - a keychain that glows with old-fashioned animated LEDs,
 - or a coin-cell powered pocket toy,
-- or a fidget spinner clicker, because it has nicely clicking tactile buttons,
+- or a fidget ~~spinner~~ clicker, because it has nicely clicking tactile buttons,
 - or a nicely looking aide for your board games,
 - or a secret messenger.
 
