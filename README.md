@@ -16,13 +16,14 @@ It's firmware contains:
 - an animation editor,
 - a timer,
 - a playing die
-- a heads-or-tails random generator X9
+- a set of 9 heads-or-tails coins
+
 Last three apps help with board games.
 
 ![front](/picts/pcb-front.jpg)
 
 It consists of:
-- a small (1x1x1/2'') body,
+- a small (1x1x1/4'') body,
 - a small PCB board,
 - a tiny microcontroller,
 - 9 buttons,
