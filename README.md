@@ -1,5 +1,7 @@
 # Alien Die
-![device](/picts/front.jpg)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XehphvtCFRs/0.jpg)](https://www.youtube.com/watch?v=XehphvtCFRs)
+
 
 You can think of Alien Die as:
 - a keychain that glows with old-fashioned animated LEDs,
@@ -31,3 +33,5 @@ It consists of:
 - and a CR2335 battery holder.
 
 ![back](/picts/pcb-back.jpg)
+
+![device](/picts/front.jpg)
