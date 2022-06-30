@@ -2,6 +2,7 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XehphvtCFRs/0.jpg)](https://www.youtube.com/watch?v=XehphvtCFRs)
 
+[Project log](https://hackaday.io/project/183545-alien-die)
 
 You can think of Alien Die as:
 - a keychain that glows with old-fashioned animated LEDs,
